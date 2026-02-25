@@ -2,7 +2,7 @@ const colorMap = {
   scientific: "from-indigo-600 to-purple-600",
   navigation: "from-emerald-600 to-green-600",
   communication: "from-sky-600 to-blue-600",
-  default: "from-slate-600 to-gray-600",
+  default: "from-rose-600 to-pink-600",
 };
 
 export default function MissionCard({ mission, onClick }) {

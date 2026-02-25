@@ -16,11 +16,11 @@ export default function MissionModal({ mission, onClose }) {
           </h2>
 
           <p className="text-sm text-gray-400 mb-4 capitalize">
-            {mission.type} mission
+            {mission.type} mission by ISRO
           </p>
 
-          <p className="text-gray-300">
-            {mission.objective}
+          <p className="text-red-300">
+            {mission.description}
           </p>
 
           <button

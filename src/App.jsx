@@ -49,7 +49,7 @@ export default function App() {
         {/* Footer */}
         <footer className="py-10 text-center text-sm text-gray-600 dark:text-gray-500 border-t border-black/10 dark:border-white/10">
           <p>
-            Data sourced from public ISRO mission datasets
+            Made with ❤️ by <b> subrav bhande</b> for your WDD assignment. All data is fetched from ISRO’s public APIs and is for educational purposes only.
           </p>
         </footer>
       </div>
